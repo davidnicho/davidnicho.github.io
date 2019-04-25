@@ -1,8 +1,9 @@
 body 
  {
-  background:url(../images/background111.jpg);
+  background:url(../images/background111.jpg); 
+  opacity: 0.9; 
   background-color: rgba(255, 255, 244, 0.822);  
-   opacity: 1; 
+ 
   }
 
   .right {
@@ -70,5 +71,4 @@ iframe {
   width: 1px;
   min-width: 90%;
   min-height: 300px;
-  color:rgba(0, 0, 0, 0.514);
 }
