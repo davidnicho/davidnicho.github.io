@@ -1,8 +1,8 @@
 body 
  {
-
+  background:url(../images/background111.jpg);
   background-color: rgba(255, 255, 244, 0.822);  
-    
+   opacity: 1; 
   }
 
   .right {
@@ -24,8 +24,7 @@ h1 {
 h2 {
     font-size: 24px;
     color: rgba(7, 7, 6, 1);
-    /*text-align: right;*/
-    text-shadow: 2px 2px 2px  rgb(63, 63, 57);
+    text-shadow: 1px 1px 1px  rgb(63, 63, 57);
     width: 100%;
   }
 
