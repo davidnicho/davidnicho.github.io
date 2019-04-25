@@ -13,6 +13,10 @@ body
   .left {
     float: left;
      } 
+  .center {
+      float: center;
+       } 
+
  
 h1 {
     font-size: 36px;
@@ -20,7 +24,7 @@ h1 {
     text-align: left;
     font-weight: bold;
     text-shadow: 1px 1px 1px rgb(63, 63, 57);
-    width: 90%;
+    width: 50%;
   }
 h2 {
     font-size: 24px;
