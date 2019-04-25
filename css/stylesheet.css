@@ -65,3 +65,10 @@ a:active {
 	color:rgb(0, 0, 0);
 	text-decoration: none;
 }
+
+iframe {
+  width: 1px;
+  min-width: 90%;
+  min-height: 300px;
+  color:rgba(0, 0, 0, 0.514);
+}
